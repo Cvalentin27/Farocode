@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Product Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>6DoF Probe</fullName>
+                <default>false</default>
+                <label>6DoF Probe</label>
+            </value>
+            <value>
+                <fullName>8-Axis</fullName>
+                <default>false</default>
+                <label>8-Axis</label>
+            </value>
+            <value>
+                <fullName>Advantage</fullName>
+                <default>false</default>
+                <label>Advantage</label>
+            </value>
+            <value>
+                <fullName>AMP</fullName>
+                <default>false</default>
+                <label>AMP</label>
+            </value>
+            <value>
+                <fullName>Arm Section</fullName>
+                <default>false</default>
+                <label>Arm Section</label>
+            </value>
+            <value>
+                <fullName>AutoCad (Discontinued)</fullName>
+                <default>false</default>
+                <label>AutoCad (Discontinued)</label>
+            </value>
+            <value>
+                <fullName>Ballbar Kit</fullName>
+                <default>false</default>
+                <label>Ballbar Kit</label>
+            </value>
+            <value>
+                <fullName>Base Module</fullName>
+                <default>false</default>
+                <label>Base Module</label>
+            </value>
+            <value>
+                <fullName>Battery Module</fullName>
+                <default>false</default>
+                <label>Battery Module</label>
+            </value>
+            <value>
+                <fullName>Bronze</fullName>
+                <default>false</default>
+                <label>Bronze</label>
+            </value>
+            <value>
+                <fullName>CMM (Discontinued)</fullName>
+                <default>false</default>
+                <label>CMM (Discontinued)</label>
+            </value>
+            <value>
+                <fullName>Cobalt</fullName>
+                <default>false</default>
+                <label>Cobalt</label>
+            </value>
+            <value>
+                <fullName>Cobalt Design</fullName>
+                <default>false</default>
+                <label>Cobalt Design</label>
+            </value>
+            <value>
+                <fullName>Computer</fullName>
+                <default>false</default>
+                <label>Computer</label>
+            </value>
+            <value>
+                <fullName>Controller</fullName>
+                <default>false</default>
+                <label>Controller</label>
+            </value>
+            <value>
+                <fullName>Dental Plug-in</fullName>
+                <default>false</default>
+                <label>Dental Plug-in</label>
+            </value>
+            <value>
+                <fullName>Dental Scanner</fullName>
+                <default>false</default>
+                <label>Dental Scanner</label>
+            </value>
+            <value>
+                <fullName>Design ScanArm</fullName>
+                <default>false</default>
+                <label>Design ScanArm</label>
+            </value>
+            <value>
+                <fullName>Design ScanArm 2.0</fullName>
+                <default>false</default>
+                <label>Design ScanArm 2.0</label>
+            </value>
+            <value>
+                <fullName>Design ScanArm 2.5</fullName>
+                <default>false</default>
+                <label>Design ScanArm 2.5</label>
+            </value>
+            <value>
+                <fullName>Design ScanArm 2.5C</fullName>
+                <default>false</default>
+                <label>Design ScanArm 2.5C</label>
+            </value>
+            <value>
+                <fullName>Digital Template</fullName>
+                <default>false</default>
+                <label>Digital Template</label>
+            </value>
+            <value>
+                <fullName>DMVS</fullName>
+                <default>false</default>
+                <label>DMVS</label>
+            </value>
+            <value>
+                <fullName>DOT Plate</fullName>
+                <default>false</default>
+                <label>DOT Plate</label>
+            </value>
+            <value>
+                <fullName>DS LLP</fullName>
+                <default>false</default>
+                <label>DS LLP</label>
+            </value>
+            <value>
+                <fullName>DT Plotter</fullName>
+                <default>false</default>
+                <label>DT Plotter</label>
+            </value>
+            <value>
+                <fullName>Edge</fullName>
+                <default>false</default>
+                <label>Edge</label>
+            </value>
+            <value>
+                <fullName>Focus 3D</fullName>
+                <default>false</default>
+                <label>Focus 3D</label>
+            </value>
+            <value>
+                <fullName>Focus 3D X</fullName>
+                <default>false</default>
+                <label>Focus 3D X</label>
+            </value>
+            <value>
+                <fullName>Focus 3D X HDR</fullName>
+                <default>false</default>
+                <label>Focus 3D X HDR</label>
+            </value>
+            <value>
+                <fullName>Focusers</fullName>
+                <default>false</default>
+                <label>Focusers</label>
+            </value>
+            <value>
+                <fullName>Focus M</fullName>
+                <default>false</default>
+                <label>Focus M</label>
+            </value>
+            <value>
+                <fullName>Focus S</fullName>
+                <default>false</default>
+                <label>Focus S</label>
+            </value>
+            <value>
+                <fullName>Focus S Plus</fullName>
+                <default>false</default>
+                <label>Focus S Plus</label>
+            </value>
+            <value>
+                <fullName>Freestyle3D</fullName>
+                <default>false</default>
+                <label>Freestyle3D</label>
+            </value>
+            <value>
+                <fullName>Freestyle3D Objects</fullName>
+                <default>false</default>
+                <label>Freestyle3D Objects</label>
+            </value>
+            <value>
+                <fullName>Freestyle 3D X</fullName>
+                <default>false</default>
+                <label>Freestyle 3D X</label>
+            </value>
+            <value>
+                <fullName>Fusion</fullName>
+                <default>false</default>
+                <label>Fusion</label>
+            </value>
+            <value>
+                <fullName>Gage Bluetooth</fullName>
+                <default>false</default>
+                <label>Gage Bluetooth</label>
+            </value>
+            <value>
+                <fullName>Gage Plus</fullName>
+                <default>false</default>
+                <label>Gage Plus</label>
+            </value>
+            <value>
+                <fullName>Gage Standard</fullName>
+                <default>false</default>
+                <label>Gage Standard</label>
+            </value>
+            <value>
+                <fullName>Galvanometer</fullName>
+                <default>false</default>
+                <label>Galvanometer</label>
+            </value>
+            <value>
+                <fullName>GeoMagic</fullName>
+                <default>false</default>
+                <label>GeoMagic</label>
+            </value>
+            <value>
+                <fullName>Gold</fullName>
+                <default>false</default>
+                <label>Gold</label>
+            </value>
+            <value>
+                <fullName>HuaXia</fullName>
+                <default>false</default>
+                <label>HuaXia</label>
+            </value>
+            <value>
+                <fullName>ION</fullName>
+                <default>false</default>
+                <label>ION</label>
+            </value>
+            <value>
+                <fullName>Laser Line Probe</fullName>
+                <default>false</default>
+                <label>Laser Line Probe</label>
+            </value>
+            <value>
+                <fullName>Laser Projector</fullName>
+                <default>false</default>
+                <label>Laser Projector</label>
+            </value>
+            <value>
+                <fullName>Laser Tracker Camera Option</fullName>
+                <default>false</default>
+                <label>Laser Tracker Camera Option</label>
+            </value>
+            <value>
+                <fullName>LPT Projector</fullName>
+                <default>false</default>
+                <label>LPT Projector</label>
+            </value>
+            <value>
+                <fullName>LS Battery Pack</fullName>
+                <default>false</default>
+                <label>LS Battery Pack</label>
+            </value>
+            <value>
+                <fullName>LS PB Battery</fullName>
+                <default>false</default>
+                <label>LS PB Battery</label>
+            </value>
+            <value>
+                <fullName>Maestro</fullName>
+                <default>false</default>
+                <label>Maestro</label>
+            </value>
+            <value>
+                <fullName>Magnaline</fullName>
+                <default>false</default>
+                <label>Magnaline</label>
+            </value>
+            <value>
+                <fullName>MCU-Master Control Unit</fullName>
+                <default>false</default>
+                <label>MCU-Master Control Unit</label>
+            </value>
+            <value>
+                <fullName>Millennium</fullName>
+                <default>false</default>
+                <label>Millennium</label>
+            </value>
+            <value>
+                <fullName>Mirror Module</fullName>
+                <default>false</default>
+                <label>Mirror Module</label>
+            </value>
+            <value>
+                <fullName>Open Frame</fullName>
+                <default>false</default>
+                <label>Open Frame</label>
+            </value>
+            <value>
+                <fullName>Optor Clinic</fullName>
+                <default>false</default>
+                <label>Optor Clinic</label>
+            </value>
+            <value>
+                <fullName>Optor Lab</fullName>
+                <default>false</default>
+                <label>Optor Lab</label>
+            </value>
+            <value>
+                <fullName>OT Legacy</fullName>
+                <default>false</default>
+                <label>OT Legacy</label>
+            </value>
+            <value>
+                <fullName>PC Module</fullName>
+                <default>false</default>
+                <label>PC Module</label>
+            </value>
+            <value>
+                <fullName>Pipeline</fullName>
+                <default>false</default>
+                <label>Pipeline</label>
+            </value>
+            <value>
+                <fullName>Platinum</fullName>
+                <default>false</default>
+                <label>Platinum</label>
+            </value>
+            <value>
+                <fullName>Polyworks</fullName>
+                <default>false</default>
+                <label>Polyworks</label>
+            </value>
+            <value>
+                <fullName>Portlock (Dongle)</fullName>
+                <default>false</default>
+                <label>Portlock (Dongle)</label>
+            </value>
+            <value>
+                <fullName>Portlock (Dongle) - Network</fullName>
+                <default>false</default>
+                <label>Portlock (Dongle) - Network</label>
+            </value>
+            <value>
+                <fullName>Power Gage</fullName>
+                <default>false</default>
+                <label>Power Gage</label>
+            </value>
+            <value>
+                <fullName>Power Inspect</fullName>
+                <default>false</default>
+                <label>Power Inspect</label>
+            </value>
+            <value>
+                <fullName>Prime</fullName>
+                <default>false</default>
+                <label>Prime</label>
+            </value>
+            <value>
+                <fullName>Printer</fullName>
+                <default>false</default>
+                <label>Printer</label>
+            </value>
+            <value>
+                <fullName>Product Key</fullName>
+                <default>false</default>
+                <label>Product Key</label>
+            </value>
+            <value>
+                <fullName>Product Key - Network</fullName>
+                <default>false</default>
+                <label>Product Key - Network</label>
+            </value>
+            <value>
+                <fullName>Product Key - Temp</fullName>
+                <default>false</default>
+                <label>Product Key - Temp</label>
+            </value>
+            <value>
+                <fullName>Product Key - Virtual Dongle</fullName>
+                <default>false</default>
+                <label>Product Key - Virtual Dongle</label>
+            </value>
+            <value>
+                <fullName>Prototype</fullName>
+                <default>false</default>
+                <label>Prototype</label>
+            </value>
+            <value>
+                <fullName>Quantum</fullName>
+                <default>false</default>
+                <label>Quantum</label>
+            </value>
+            <value>
+                <fullName>Quantum E</fullName>
+                <default>false</default>
+                <label>Quantum E</label>
+            </value>
+            <value>
+                <fullName>Quantum M</fullName>
+                <default>false</default>
+                <label>Quantum M</label>
+            </value>
+            <value>
+                <fullName>Quantum S</fullName>
+                <default>false</default>
+                <label>Quantum S</label>
+            </value>
+            <value>
+                <fullName>Rail</fullName>
+                <default>false</default>
+                <label>Rail</label>
+            </value>
+            <value>
+                <fullName>Retroprobe</fullName>
+                <default>false</default>
+                <label>Retroprobe</label>
+            </value>
+            <value>
+                <fullName>Robo-Imager Mobile</fullName>
+                <default>false</default>
+                <label>Robo-Imager Mobile</label>
+            </value>
+            <value>
+                <fullName>Rotary Table</fullName>
+                <default>false</default>
+                <label>Rotary Table</label>
+            </value>
+            <value>
+                <fullName>Scale Bar Kit</fullName>
+                <default>false</default>
+                <label>Scale Bar Kit</label>
+            </value>
+            <value>
+                <fullName>Scan Head 2 Axis</fullName>
+                <default>false</default>
+                <label>Scan Head 2 Axis</label>
+            </value>
+            <value>
+                <fullName>Scan Head 3 Axis</fullName>
+                <default>false</default>
+                <label>Scan Head 3 Axis</label>
+            </value>
+            <value>
+                <fullName>Scan in a Box</fullName>
+                <default>false</default>
+                <label>Scan in a Box</label>
+            </value>
+            <value>
+                <fullName>ScanLink3D Photo</fullName>
+                <default>false</default>
+                <label>ScanLink3D Photo</label>
+            </value>
+            <value>
+                <fullName>Scan Localizer</fullName>
+                <default>false</default>
+                <label>Scan Localizer</label>
+            </value>
+            <value>
+                <fullName>Scanner LS</fullName>
+                <default>false</default>
+                <label>Scanner LS</label>
+            </value>
+            <value>
+                <fullName>ScanPlan</fullName>
+                <default>false</default>
+                <label>ScanPlan</label>
+            </value>
+            <value>
+                <fullName>SDK</fullName>
+                <default>false</default>
+                <label>SDK</label>
+            </value>
+            <value>
+                <fullName>Sensor(s)</fullName>
+                <default>false</default>
+                <label>Sensor(s)</label>
+            </value>
+            <value>
+                <fullName>Sensor Module</fullName>
+                <default>false</default>
+                <label>Sensor Module</label>
+            </value>
+            <value>
+                <fullName>Silver</fullName>
+                <default>false</default>
+                <label>Silver</label>
+            </value>
+            <value>
+                <fullName>SMR</fullName>
+                <default>false</default>
+                <label>SMR</label>
+            </value>
+            <value>
+                <fullName>SMX Tracker</fullName>
+                <default>false</default>
+                <label>SMX Tracker</label>
+            </value>
+            <value>
+                <fullName>Software Module</fullName>
+                <default>false</default>
+                <label>Software Module</label>
+            </value>
+            <value>
+                <fullName>Space Arm</fullName>
+                <default>false</default>
+                <label>Space Arm</label>
+            </value>
+            <value>
+                <fullName>Sterling</fullName>
+                <default>false</default>
+                <label>Sterling</label>
+            </value>
+            <value>
+                <fullName>Surfboard</fullName>
+                <default>false</default>
+                <label>Surfboard</label>
+            </value>
+            <value>
+                <fullName>Tablet</fullName>
+                <default>false</default>
+                <label>Tablet</label>
+            </value>
+            <value>
+                <fullName>Television</fullName>
+                <default>false</default>
+                <label>Television</label>
+            </value>
+            <value>
+                <fullName>Titanium</fullName>
+                <default>false</default>
+                <label>Titanium</label>
+            </value>
+            <value>
+                <fullName>Tracer</fullName>
+                <default>false</default>
+                <label>Tracer</label>
+            </value>
+            <value>
+                <fullName>TracerM Class 2</fullName>
+                <default>false</default>
+                <label>TracerM Class 2</label>
+            </value>
+            <value>
+                <fullName>TracerSI</fullName>
+                <default>false</default>
+                <label>TracerSI</label>
+            </value>
+            <value>
+                <fullName>Tracker</fullName>
+                <default>false</default>
+                <label>Tracker</label>
+            </value>
+            <value>
+                <fullName>Trial</fullName>
+                <default>false</default>
+                <label>Trial</label>
+            </value>
+            <value>
+                <fullName>Trimble TX5</fullName>
+                <default>false</default>
+                <label>Trimble TX5</label>
+            </value>
+            <value>
+                <fullName>Tripod</fullName>
+                <default>false</default>
+                <label>Tripod</label>
+            </value>
+            <value>
+                <fullName>UCB</fullName>
+                <default>false</default>
+                <label>UCB</label>
+            </value>
+            <value>
+                <fullName>Vantage</fullName>
+                <default>false</default>
+                <label>Vantage</label>
+            </value>
+            <value>
+                <fullName>Vantage E</fullName>
+                <default>false</default>
+                <label>Vantage E</label>
+            </value>
+            <value>
+                <fullName>VantageE6</fullName>
+                <default>false</default>
+                <label>VantageE6</label>
+            </value>
+            <value>
+                <fullName>Vantage MCU</fullName>
+                <default>false</default>
+                <label>Vantage MCU</label>
+            </value>
+            <value>
+                <fullName>Vantage S</fullName>
+                <default>false</default>
+                <label>Vantage S</label>
+            </value>
+            <value>
+                <fullName>VantageS6</fullName>
+                <default>false</default>
+                <label>VantageS6</label>
+            </value>
+            <value>
+                <fullName>Vector</fullName>
+                <default>false</default>
+                <label>Vector</label>
+            </value>
+            <value>
+                <fullName>Work Cart</fullName>
+                <default>false</default>
+                <label>Work Cart</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Reason_Cannot_Renew__c</fullName>
+    <externalId>false</externalId>
+    <label>Reason Cannot Renew</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>End of Life</fullName>
+                <default>false</default>
+                <label>End of Life</label>
+            </value>
+            <value>
+                <fullName>Customer Damaged</fullName>
+                <default>false</default>
+                <label>Customer Damaged</label>
+            </value>
+            <value>
+                <fullName>Natural Disaster Damaged</fullName>
+                <default>false</default>
+                <label>Natural Disaster Damaged</label>
+            </value>
+            <value>
+                <fullName>Other (see Asset Notes)</fullName>
+                <default>false</default>
+                <label>Other (see Asset Notes)</label>
+            </value>
+            <value>
+                <fullName>No Warranty Offered</fullName>
+                <default>false</default>
+                <label>No Warranty Offered</label>
+            </value>
+            <value>
+                <fullName>Scapped</fullName>
+                <default>false</default>
+                <label>Scapped</label>
+            </value>
+            <value>
+                <fullName>NA</fullName>
+                <default>false</default>
+                <label>NA</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SMM_Layout</fullName>
+    <fields>Name</fields>
+    <fields>Product_Type__c</fields>
+    <fields>Serviceable__c</fields>
+    <fields>Serviceable_End_Date__c</fields>
+    <label>SMM Layout</label>
+</CompactLayout>

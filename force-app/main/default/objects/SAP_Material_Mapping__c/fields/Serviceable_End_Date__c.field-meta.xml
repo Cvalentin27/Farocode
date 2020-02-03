@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Serviceable_End_Date__c</fullName>
+    <description>This is the last date the product will be serviceable. The product will fall off of the RMA list after this date</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This is the last date the product will be serviceable. The product will fall off of the RMA list after this date</inlineHelpText>
+    <label>Serviceable End Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

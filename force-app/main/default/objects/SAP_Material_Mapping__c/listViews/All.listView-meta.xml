@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>NAME</columns>
+    <columns>Model_No__c</columns>
+    <columns>Firmware_Version__c</columns>
+    <columns>Product_Category__c</columns>
+    <columns>Product_Type__c</columns>
+    <columns>LAST_UPDATE</columns>
+    <columns>Accessory_Has_Window__c</columns>
+    <columns>Eligible_for_Renewal__c</columns>
+    <columns>Reason_Cannot_Renew__c</columns>
+    <columns>Type__c</columns>
+    <columns>Is_Bluetooth__c</columns>
+    <columns>Software_Name__c</columns>
+    <columns>Warranty_Expiration_Formula__c</columns>
+    <columns>Warranty_Plan__c</columns>
+    <columns>Vertical__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+    <language>en_US</language>
+</ListView>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Software_Bundle__c</fullName>
+    <externalId>false</externalId>
+    <label>Software Bundle</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>EDU Version</fullName>
+                <default>false</default>
+                <label>EDU Version</label>
+            </value>
+            <value>
+                <fullName>Full Version</fullName>
+                <default>false</default>
+                <label>Full Version</label>
+            </value>
+            <value>
+                <fullName>Off-Line Version</fullName>
+                <default>false</default>
+                <label>Off-Line Version</label>
+            </value>
+            <value>
+                <fullName>Probing Version</fullName>
+                <default>false</default>
+                <label>Probing Version</label>
+            </value>
+            <value>
+                <fullName>Transition Version</fullName>
+                <default>false</default>
+                <label>Transition Version</label>
+            </value>
+            <value>
+                <fullName>Upgrade Version</fullName>
+                <default>false</default>
+                <label>Upgrade Version</label>
+            </value>
+            <value>
+                <fullName>Core License</fullName>
+                <default>false</default>
+                <label>Core License</label>
+            </value>
+            <value>
+                <fullName>AddOn</fullName>
+                <default>false</default>
+                <label>AddOn</label>
+            </value>
+            <value>
+                <fullName>License Container</fullName>
+                <default>false</default>
+                <label>License Container</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

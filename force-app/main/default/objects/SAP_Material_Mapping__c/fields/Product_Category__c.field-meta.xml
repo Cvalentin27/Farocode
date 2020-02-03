@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product_Category__c</fullName>
+    <externalId>false</externalId>
+    <label>Product Category</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>3D Imager</fullName>
+                <default>false</default>
+                <label>3D Imager</label>
+            </value>
+            <value>
+                <fullName>Accessories</fullName>
+                <default>false</default>
+                <label>Accessories</label>
+            </value>
+            <value>
+                <fullName>BuildIT Software</fullName>
+                <default>false</default>
+                <label>BuildIT Software</label>
+            </value>
+            <value>
+                <fullName>Dental Scanner</fullName>
+                <default>false</default>
+                <label>Dental Scanner</label>
+            </value>
+            <value>
+                <fullName>FaroArm</fullName>
+                <default>false</default>
+                <label>FaroArm</label>
+            </value>
+            <value>
+                <fullName>Gage</fullName>
+                <default>false</default>
+                <label>Gage</label>
+            </value>
+            <value>
+                <fullName>Galvo Systems</fullName>
+                <default>false</default>
+                <label>Galvo Systems</label>
+            </value>
+            <value>
+                <fullName>Industrial Scanner</fullName>
+                <default>false</default>
+                <label>Industrial Scanner</label>
+            </value>
+            <value>
+                <fullName>Laser Line Probe (LLP)</fullName>
+                <default>false</default>
+                <label>Laser Line Probe (LLP)</label>
+            </value>
+            <value>
+                <fullName>Laser Scanner (LS)</fullName>
+                <default>false</default>
+                <label>Laser Scanner (LS)</label>
+            </value>
+            <value>
+                <fullName>Laser Tracker</fullName>
+                <default>false</default>
+                <label>Laser Tracker</label>
+            </value>
+            <value>
+                <fullName>Projector</fullName>
+                <default>false</default>
+                <label>Projector</label>
+            </value>
+            <value>
+                <fullName>ScanPlan</fullName>
+                <default>false</default>
+                <label>ScanPlan</label>
+            </value>
+            <value>
+                <fullName>SDK</fullName>
+                <default>false</default>
+                <label>SDK</label>
+            </value>
+            <value>
+                <fullName>Software</fullName>
+                <default>false</default>
+                <label>Software</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

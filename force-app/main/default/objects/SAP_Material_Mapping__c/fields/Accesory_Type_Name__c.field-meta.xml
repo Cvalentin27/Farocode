@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Accesory_Type_Name__c</fullName>
+    <externalId>false</externalId>
+    <label>Accesory Type Name</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1/2&quot;</fullName>
+                <default>false</default>
+                <label>1/2&quot;</label>
+            </value>
+            <value>
+                <fullName>1/2&quot; NP BR</fullName>
+                <default>false</default>
+                <label>1/2&quot; NP BR</label>
+            </value>
+            <value>
+                <fullName>1/2&quot; PLX</fullName>
+                <default>false</default>
+                <label>1/2&quot; PLX</label>
+            </value>
+            <value>
+                <fullName>1 1/2&quot;</fullName>
+                <default>false</default>
+                <label>1 1/2&quot;</label>
+            </value>
+            <value>
+                <fullName>1 1/2&quot; NP BR</fullName>
+                <default>false</default>
+                <label>1 1/2&quot; NP BR</label>
+            </value>
+            <value>
+                <fullName>1 1/2&quot; PLX</fullName>
+                <default>false</default>
+                <label>1 1/2&quot; PLX</label>
+            </value>
+            <value>
+                <fullName>7/8&quot;</fullName>
+                <default>false</default>
+                <label>7/8&quot;</label>
+            </value>
+            <value>
+                <fullName>7/8&quot; NP BR</fullName>
+                <default>false</default>
+                <label>7/8&quot; NP BR</label>
+            </value>
+            <value>
+                <fullName>7/8&quot; PLX</fullName>
+                <default>false</default>
+                <label>7/8&quot; PLX</label>
+            </value>
+            <value>
+                <fullName>Windowed 1 1/2&quot;</fullName>
+                <default>false</default>
+                <label>Windowed 1 1/2&quot;</label>
+            </value>
+            <value>
+                <fullName>Windowed 7/8&quot;</fullName>
+                <default>false</default>
+                <label>Windowed 7/8&quot;</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
